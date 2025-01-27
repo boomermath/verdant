@@ -1,0 +1,19 @@
+{
+    "approaches": [
+        {
+            "image": "/veggies.webp",
+            "title": "Farm-to-Table",
+            "description": "We source our ingredients from local organic farms, ensuring the freshest produce for our dishes."
+        },
+        {
+            "image": "/veggies.webp",
+            "title": "Sustainable Practices",
+            "description": "Our commitment to sustainability extends from our kitchen to our dining room, minimizing our environmental impact."
+        },
+        {
+            "image": "/veggies.webp",
+            "title": "Culinary Artistry",
+            "description": "Our chefs craft each dish with precision and creativity, elevating plant-based ingredients to new heights."
+        }
+    ]
+}
