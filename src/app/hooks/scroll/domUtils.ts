@@ -1,4 +1,4 @@
-type ListenerFn = () => any
+type ListenerFn = () => unknown
 
 export function getScrollTop(target?: HTMLElement) {
   if (target) return target.scrollTop
