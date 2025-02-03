@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button"
+import { Clock } from "lucide-react"
 
 interface TimeSlotProps {
   time: string
@@ -17,6 +18,7 @@ export default function TimeSlot({ time, selected, onSelect }: TimeSlotProps) {
       }`}
       onClick={onSelect}
     >
+      <Clock className="w-4 h-4 mr-2" />
       {time}
     </Button>
   )

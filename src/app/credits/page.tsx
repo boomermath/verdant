@@ -9,24 +9,12 @@ export default function CreditsPage() {
         <div className="flex-grow container mx-auto px-6 py-12 pt-20">
             <section className="mb-12">
                 <h2 className={`${playfair.className} text-3xl font-bold text-[var(--dark-green-800)] mb-4`}>
-                    Website Creators
-                </h2>
-                <ul className="list-disc list-inside">
-                    <li>Patrick Kilcoyne</li>
-                    <li>Rikhil Chilka</li>
-                    <li>Vihaan Gaurav</li>
-                    <li>Batu Dinclasan</li>
-                </ul>
-            </section>
-
-            <section className="mb-12">
-                <h2 className={`${playfair.className} text-3xl font-bold text-[var(--dark-green-800)] mb-4`}>
                     Sources of Information
                 </h2>
                 <ul className="list-disc list-inside">
                     <li>
                         <a
-                            href="https://www.sustainabletable.org/"
+                            href="https://www.sustainabletable.org.au/"
                             className="text-[var(--dark-green-600)] hover:underline"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -36,7 +24,7 @@ export default function CreditsPage() {
                     </li>
                     <li>
                         <a
-                            href="https://www.thesustainablerestaurant.com/"
+                            href="https://www.thesra.org/"
                             className="text-[var(--dark-green-600)] hover:underline"
                             target="_blank"
                             rel="noopener noreferrer"
